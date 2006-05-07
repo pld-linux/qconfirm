@@ -2,7 +2,7 @@ Summary:	qconfirm - request delivery confirmation for mail
 Name:		qconfirm
 Version:	0.14.3
 Release:	0.1
-License:	BS0D
+License:	BSD
 Group:		Applications/File
 Source0:	http://smarden.org/qconfirm/%{name}-%{version}.tar.gz
 # Source0-md5:	e41edae19b2b9244b5d0ae62cf41f947
