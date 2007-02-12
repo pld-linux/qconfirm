@@ -1,5 +1,5 @@
 Summary:	qconfirm - request delivery confirmation for mail
-Summary(pl):	qconfirm - ¿±danie potwierdzenia dostarczenia poczty
+Summary(pl.UTF-8):   qconfirm - Å¼Ä…danie potwierdzenia dostarczenia poczty
 Name:		qconfirm
 Version:	0.14.3
 Release:	0.1
@@ -21,13 +21,13 @@ mailbox or the mailboxes of mailing list subscribers. qconfirm
 performs this delivery confirmation process either sender based or
 message based.
 
-%description -l pl
+%description -l pl.UTF-8
 qconfirm to implementacja procesu potwierdzenia dostarczenia dla list
-lub adresów pocztowych. Jest wywo³ywany przez qmail-local poprzez plik
-dot-qmail i mo¿e zmniejszyæ ilo¶æ niechcianej poczty trafiaj±cej do
-skrzynek u¿ytkowników b±d¼ subskrybentów list pocztowych. qconfirm
-przeprowadza proces potwierdzenia dostarczenia w oparciu o nadawcê lub
-wiadomo¶æ.
+lub adresÃ³w pocztowych. Jest wywoÅ‚ywany przez qmail-local poprzez plik
+dot-qmail i moÅ¼e zmniejszyÄ‡ iloÅ›Ä‡ niechcianej poczty trafiajÄ…cej do
+skrzynek uÅ¼ytkownikÃ³w bÄ…dÅº subskrybentÃ³w list pocztowych. qconfirm
+przeprowadza proces potwierdzenia dostarczenia w oparciu o nadawcÄ™ lub
+wiadomoÅ›Ä‡.
 
 %prep
 %setup -q -n mail
