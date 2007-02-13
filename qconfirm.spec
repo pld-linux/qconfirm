@@ -1,5 +1,5 @@
 Summary:	qconfirm - request delivery confirmation for mail
-Summary(pl.UTF-8):   qconfirm - żądanie potwierdzenia dostarczenia poczty
+Summary(pl.UTF-8):	qconfirm - żądanie potwierdzenia dostarczenia poczty
 Name:		qconfirm
 Version:	0.14.3
 Release:	0.1
